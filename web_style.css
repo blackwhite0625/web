@@ -1,0 +1,138 @@
+@font-face{
+    font-family: 'font1';
+    src: url(./font/NotoSansTC-VariableFont_wght.ttf);
+}
+body{
+    background-image:url('./image/photo-1558346648-9757f2fa4474.webp');
+    font-family: 'font1',cursive;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 99;
+    border-radius: 32px;
+    border-width:5px;
+    
+    
+}
+.button01{
+    width: 150px;
+    height: 75px;
+    background:transparent;
+    color: #1e768e;
+    background-color: rgb(158, 173, 185);
+    border: 2px solid darkcyan;
+    outline: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 45px;
+    font-weight: 500;
+    margin-left: 40px;
+    transition: .5s;
+
+    
+}
+.button01:hover{
+    background:rgb(165, 191, 213)  ;
+    color: #162938;
+}
+.button02{
+    width: 150px;
+    height: 75px;
+    background:transparent;
+    color: #1e768e;
+    background-color: rgb(158, 173, 185);
+    border: 2px solid darkcyan;
+    outline: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 45px;
+    font-weight: 500;
+    margin-left: 40px;
+    transition: .5s;
+    
+}
+.button02:hover{
+    background:rgb(165, 191, 213)  ;
+    color: #162938;
+}
+h1{
+    font-size: 65px;
+    color: #1e768e;
+    text-shadow: 3px 15px 20px #7576a6;
+}
+#ul1{
+    color: #4012be;
+    font-size: 45px;
+    border-style: solid;
+    border-radius: 32px;
+    border-width: 3px;
+    border-color:  darkcyan ; 
+}
+#li1{
+    color: #b13d9c;
+    font-size: 25px;
+    
+}
+#li2{
+    color: #b13d9c;
+    font-size: 25px;
+}
+#li3{
+    color: #b13d9c;
+    font-size: 25px;
+}
+#ul2{
+    color: #4012be;
+    font-size: 45px;
+    border-style: solid;
+    border-radius: 32px;
+    border-width: 3px;
+    border-color:  darkcyan ; 
+}
+#li4{
+    color: #b13d9c;
+    font-size: 25px;
+}
+#li5{
+    color: #b13d9c;
+    font-size: 25px;
+}
+#li6{
+    color: #b13d9c;
+    font-size: 25px;
+}
+#ul3{
+    color: #4012be;
+    font-size: 45px;
+    border-style: solid;
+    border-radius: 32px;
+    border-width: 3px;
+    border-color:  darkcyan ; 
+}
+#ul4{
+    color: #4012be;
+    font-size: 45px;
+    border-style: solid;
+    border-radius: 32px;
+    border-width: 3px;
+    border-color:  darkcyan ; 
+}
+#li7{
+    color: #b13d9c;
+    font-size: 25px;
+}
+#li8{
+    color: #b13d9c;
+    font-size: 25px;
+}
+#li9{
+    color: #b13d9c;
+    font-size: 25px;
+}
+#li10{
+    color: #b13d9c;
+    font-size: 25px;
+}
